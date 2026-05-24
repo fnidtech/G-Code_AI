@@ -1,0 +1,11 @@
+# Environment variables
+.env*
+# Coverage reports
+coverage/
+# Turbopack cache (if using Turbopack)
+.turbo/
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
